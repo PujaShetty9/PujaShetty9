@@ -42,19 +42,6 @@
 
 ---
 
-## 🚀 Projects
-
-🔹 **Tifflet – Tiffin Services Website**  
-👉 Food ordering platform with authentication & cart system  
-
-🔹 **Portfolio Website with CMS**  
-👉 Full-stack portfolio with admin dashboard  
-
-🔹 **AI-based Mental State Detection System**  
-👉 Multimodal deep learning system using video, audio & typing  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
