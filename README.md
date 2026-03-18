@@ -6,10 +6,6 @@
 
 <h3 align="center">🚀 Full Stack Developer | Web Developer | Data Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PujaShetty9&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-</p>
-
 ---
 
 🌟 Passionate about building real-world web applications, analyzing data, and exploring AI-driven solutions.
